@@ -1,1 +1,1 @@
-Advanced positioning of elements using grid
+Responsive positioning of elements using grid
