@@ -6,7 +6,8 @@ html {
 
 .container {
   display: grid;
-  grid-template: 100px 100px 500px  / 250px 750px;
+  justify-content: center;
+  grid-template: 100px 100px 500px 100px / 300px 900px;
   gap: 15px;
   text-align: center;
   height: 100%;
