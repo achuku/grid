@@ -7,6 +7,7 @@ html {
 .container {
   display: grid;
   grid-template: 100px 100px 500px  / 250px 750px;
+  gap: 15px;
   text-align: center;
   height: 100%;
   padding: 16px;
