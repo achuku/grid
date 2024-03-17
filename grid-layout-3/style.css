@@ -33,6 +33,7 @@
   
   .sidebar {
     background-color: #C50208;
+    gap: 50px;
   }
   
   .sidebar .photo {
