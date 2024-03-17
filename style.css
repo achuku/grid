@@ -24,6 +24,8 @@ html {
 
 .header {
   background-color: #006157;
+  grid-column: 1 /3;
+  grid-row: 1;
 }
 
 .sidebar {
