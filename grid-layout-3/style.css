@@ -76,12 +76,14 @@
     font-family: sans-serif;
     color: white;
     text-align: left;
+    padding: 5px 10px 15px 10px;
   }
   
   .article .card {
     background-color: #FFFFFF;
     color: black;
     text-align: center;
+    
   }
   
   .card p {
