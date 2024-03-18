@@ -33,6 +33,7 @@
   
   .sidebar {
     background-color: #C50208;
+    grid-row: 2 / 4;
     gap: 50px;
   }
   
