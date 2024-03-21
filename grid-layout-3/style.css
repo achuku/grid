@@ -57,6 +57,7 @@
   
   .nav {
     background-color: #C50208;
+    grid-column: ;
   }
   
   .nav ul li {
@@ -64,6 +65,12 @@
     text-transform: uppercase;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  #nav {
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
   }
   
   .article {
